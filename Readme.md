@@ -42,3 +42,7 @@
 
     Команда для Unix:
     - python3 manage.py runserver
+### 6. Для по средствам docker-compouse: 
+    Команда для Windows:
+    - docker-compose build # создаем образ
+    - docker-compose up # загружаем образ
